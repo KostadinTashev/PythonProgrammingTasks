@@ -8,7 +8,7 @@ Each folder contains exercises focused on a particular topic, making it easier t
 ---
 
 ## 🧠 Topics Covered
-- If statements; While loops; For loops
+- If statements; While loops; For loops - https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/
 - Lists
 - Functions
 - Dictionaries
