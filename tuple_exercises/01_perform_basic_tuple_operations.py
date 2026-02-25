@@ -1,0 +1,5 @@
+my_tuple = (1, 2, 3, 4, 5)
+print(my_tuple)
+print(f"Third element is: {my_tuple[2]}")
+length = len(my_tuple)
+print(f"Length of the tuple is: {length}")
