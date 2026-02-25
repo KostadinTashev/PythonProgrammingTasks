@@ -1,0 +1,7 @@
+tuple1 = ("find", "the", 'index', 'of', 'an', 'item')
+print(tuple1)
+print(tuple1.index('of'))
+tuple2 = tuple('find the index of an item')
+print(tuple2)
+index_of_an_item = tuple2.index("n")
+print(index_of_an_item)

@@ -1,0 +1,5 @@
+tuple1 = ((1, 'one'), (2, 'two'), (3, 'three'))
+dict1 = dict(tuple1)
+print(dict1)
+dict2 = dict((y, x) for x, y in tuple1)
+print(dict2)
