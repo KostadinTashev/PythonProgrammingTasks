@@ -9,7 +9,8 @@ Each folder contains exercises focused on a particular topic, making it easier t
 
 ## 🧠 Topics Covered
 - If statements; While loops; For loops - https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/
-- Lists
+- Lists - https://pynative.com/python-list-exercise-with-solutions/ ;  https://www.w3resource.com/python-exercises/list/ 
+- Tuples - https://www.w3resource.com/python-exercises/tuple/ ; https://pynative.com/python-tuple-exercise-with-solutions/
 - Functions
 - Dictionaries
 - More coming soon...
